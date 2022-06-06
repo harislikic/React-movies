@@ -159,6 +159,7 @@ nav ul li a :focus{
     .header{
         background-color: var(--primary-color);
         height: 180px;
+    
     }
     nav ul{
         display: flex;
